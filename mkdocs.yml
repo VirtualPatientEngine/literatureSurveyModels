@@ -2,8 +2,10 @@ extra_css:
 - custom.css
 nav:
 - Home: index.md
-- Time-series forecasting: Time-series forecasting.md
-- Symbolic regression: Symbolic regression.md
+- IBD: IBD.md
+- Covid: Covid.md
+- Cancer: Cancer.md
+- MAPK: MAPK.md
 plugins:
 - mkdocstrings:
     paths:
