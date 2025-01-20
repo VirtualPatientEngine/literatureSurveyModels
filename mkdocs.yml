@@ -12,8 +12,8 @@ plugins:
     - app
     - tests
 - search
-repo_name: VPE/LiteratureSurvey
-repo_url: https://github.com/VirtualPatientEngine/literatureSurvey
+repo_name: VPE/LiteratureSurveyModels
+repo_url: https://github.com/VirtualPatientEngine/literatureSurveyModels
 site_name: Literature Survey (VPE)
 theme:
   custom_dir: overrides/
