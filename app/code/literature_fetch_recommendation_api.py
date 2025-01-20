@@ -128,7 +128,7 @@ if __name__ == '__main__':
         for article_id, article_obj in topic_obj.paper_ids['positive'].items():
             # utils.add_recommendations_to_positive_articles(article_obj, 2)
             search_response = utils.add_recommendations_to_positive_articles(article_id,
-                                                                             limit=10)
+                                                                             limit=50)
             for rec_paper_data in search_response:
                 # skip the ones with publication date is null
                 if rec_paper_data['publicationDate'] is None:
