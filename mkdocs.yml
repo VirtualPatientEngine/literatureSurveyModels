@@ -7,6 +7,10 @@ nav:
 - Cancer: Cancer.md
 - MAPK1: MAPK1.md
 - MAPK: MAPK.md
+- Virtual cell: Virtual cell.md
+- RA: RA.md
+- Prostate cancer: Prostate cancer.md
+- Virtual patients: Virtual patients.md
 plugins:
 - mkdocstrings:
     paths:
