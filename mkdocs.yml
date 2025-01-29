@@ -5,6 +5,7 @@ nav:
 - IBD: IBD.md
 - Covid: Covid.md
 - Cancer: Cancer.md
+- MAPK1: MAPK1.md
 - MAPK: MAPK.md
 plugins:
 - mkdocstrings:
